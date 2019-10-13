@@ -1,6 +1,3 @@
-Name:Delia V. Trejo
-NetID: dvt170030
-	
 Project Number3
 	
 Files: Main.java and LazyBinarySearchTree.java
